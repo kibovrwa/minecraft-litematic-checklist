@@ -36,3 +36,7 @@ On the workbench: Build → Farm, Blocks → Oak, size 15×7×13. Dedicated note
 ## License
 
 CC0-1.0 — checklist text is public domain. Product names belong to their owners.
+
+## See also
+
+- [Featured on: third-party pages that mention our tools](https://kibovrwa.github.io/featured-on/)
